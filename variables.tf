@@ -1,5 +1,5 @@
 variable "username" {
-  default = "admin"
+  type = string
   }
 
 variable "password" {
