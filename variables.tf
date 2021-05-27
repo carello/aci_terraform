@@ -7,7 +7,7 @@ variable "password" {
   }
 
 variable "url" {
-  default = "http://10.91.86.180"
+  type = string
   }
 
 variable "tenantName" {
